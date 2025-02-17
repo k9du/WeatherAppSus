@@ -6,7 +6,7 @@
     - Once you have your API key, create a `.env` file in the root directory of your project and add the following line to it:
     
     ```env
-    OPENWA_KEY=your_openaq_api_key
+    OPENWA_KEY=your_openwa_api_key
     ```
 
 2. **Create a virtual environment:**
